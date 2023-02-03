@@ -2,3 +2,4 @@
 .venv
 *.auto.tfvars.json
 .terraform.lock.hcl
+.idea
