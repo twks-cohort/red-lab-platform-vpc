@@ -8,7 +8,7 @@ terraform {
 
   backend "remote" {
     hostname     = "app.terraform.io"
-    organization = "cohort"
+    organization = "twks-cohort"
     workspaces {
       prefix = "red-lab-platform-vpc-"
     }
